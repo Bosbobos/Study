@@ -1,5 +1,10 @@
 [
   "settings-search",
   "image-converter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-annotator",
+  "dataview",
+  "jupymd",
+  "omnisearch",
+  "text-extractor"
 ]

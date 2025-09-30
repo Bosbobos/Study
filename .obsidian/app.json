@@ -1,5 +1,13 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "2 - Notes",
-  "attachmentFolderPath": "0 - Assets/Misc"
+  "attachmentFolderPath": "0 - Assets/Misc",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
 }

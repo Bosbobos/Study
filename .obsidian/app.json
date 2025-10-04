@@ -3,7 +3,7 @@
   "newFileFolderPath": "2 - Notes",
   "attachmentFolderPath": "0 - Assets/Misc",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

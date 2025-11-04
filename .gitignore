@@ -4,3 +4,4 @@
 .obsidian/graph.json
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/workspace-mobile.json
+.obsidian/plugins/*/cache
